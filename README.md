@@ -81,25 +81,12 @@ We welcome contributions to improve this project. If you have suggestions or wan
 
 Please ensure your code adheres to the existing style and includes tests where applicable.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Polarssj](https://github.com/Polarssj)
+- **Email**: veerendrayalla874@gmail.com
 
-## Releases
-
-You can find the latest releases of the project [here](https://github.com/Polarssj/Iot-smart-home-automation/releases). Download the necessary files and execute them to set up the project.
-
-![Releases](https://img.shields.io/badge/Releases-Download-brightgreen)
-
-For further updates, please check the **Releases** section regularly.
-
----
 
 Thank you for exploring the IoT Smart Home Automation project! We hope it inspires you to create your own smart home solutions.
